@@ -1,3 +1,3 @@
-Ime: Ivana
-Prezime: Josifovska
-Indeks: 223256
+Ivana
+Josifovska
+223256
