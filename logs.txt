@@ -1,0 +1,9 @@
+*   d1c369c Merge pull request #12 from ivana-j25/5-filter-tasks-by-category
+|\  
+| * 001a52f Implemented filterbycategory method
+| * 00fc16b Implemented sortbytask method
+| * c57ef77 Implement find all completed tasks
+|/  
+* 8329a90 Update name in README.md
+* ce1fc27 Add starter code
+* 5478e1b Initial commit
