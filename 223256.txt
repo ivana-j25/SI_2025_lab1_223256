@@ -1,1 +1,14 @@
-Documentation for lab1
+4.git init
+5.git remote add origin https://github.com/ivana-j25/SI_2025_lab1_223256.git
+6.echo -e "Ime: Ivana\nPrezime: Josifovska\nIndeks: 223256" > README.md
+7.git add SI2025Lab1Main.java
+8.git push origin master
+9.
+14.git checkout -b 1-remove-a-task-by-name origin/1-remove-a-task-by-name
+git add .
+16.git commit -m "Implement find all completed tasks
+17.git push origin 1-remove-a-task-by-name
+25.git log --oneline --graph --all > logs.txt
+nano 223256.txt
+26.git push origin masterDocumentation for lab1
+
